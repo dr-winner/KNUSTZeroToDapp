@@ -14,7 +14,7 @@ To learn more before you start working with `project`, see the following documen
 If you want to start working on your project right away, you might want to try the following commands:
 
 ```bash
-cd project/
+cd KNUSTZeroToDapp/
 dfx help
 dfx canister --help
 ```
